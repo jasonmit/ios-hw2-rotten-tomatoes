@@ -1,7 +1,7 @@
 ios-hw2-rotten-tomatoes
 =======================
 
-* Time spent 2-hours
+* Time spent 1 1/2-hours
 
 * Required:
   * Loading indicator (it's subtle but in the top right)
